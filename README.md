@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/clopai/clopai/_apis/build/status%2FClopAI0901.pipelines-java?branchName=main)](https://dev.azure.com/clopai/clopai/_build/latest?definitionId=5&branchName=main)
+https://dev.azure.com/clopai/clopai/_apis/build/status%2FClopAI0901.pipelines-java?branchName=main
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
